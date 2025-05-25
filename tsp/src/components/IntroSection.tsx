@@ -41,8 +41,7 @@ const IntroSection = () => {
           </div>
           
           <p>
-            This solver implements a solution to find the optimal path for small to medium-sized problems. For larger problems
-            (15+ cities), it uses approximation algorithms to find near-optimal solutions in reasonable time.
+            This solver implements a solution to find the optimal path for small to medium-sized problems using Operational Research.
           </p>
           
           <div className="flex justify-center mt-6">
